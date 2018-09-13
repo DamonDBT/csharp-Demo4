@@ -1,0 +1,9 @@
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\bin\Debug\AutoEamil.exe.config
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\bin\Debug\AutoEamil.exe
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\bin\Debug\AutoEamil.pdb
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\obj\Debug\AutoEamil.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\obj\Debug\AutoEamil.Form1.resources
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\obj\Debug\AutoEamil.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\obj\Debug\AutoEamil.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\obj\Debug\AutoEamil.exe
+E:\codeStudy\8-C#\Demo4\AutoEamil\AutoEamil\obj\Debug\AutoEamil.pdb

@@ -1,0 +1,12 @@
+E:\codeStudy\8-C#\Demo4\StringDeal\bin\Debug\StringDeal.exe.config
+E:\codeStudy\8-C#\Demo4\StringDeal\obj\Debug\StringDeal.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\StringDeal\bin\Debug\StringDeal.exe
+E:\codeStudy\8-C#\Demo4\StringDeal\bin\Debug\StringDeal.pdb
+E:\codeStudy\8-C#\Demo4\StringDeal\obj\Debug\StringDeal.exe
+E:\codeStudy\8-C#\Demo4\StringDeal\obj\Debug\StringDeal.pdb
+C:\Users\dbt\Desktop\StringDeal\bin\Debug\StringDeal.exe.config
+C:\Users\dbt\Desktop\StringDeal\obj\Debug\StringDeal.exe
+C:\Users\dbt\Desktop\StringDeal\obj\Debug\StringDeal.pdb
+C:\Users\dbt\Desktop\StringDeal\bin\Debug\StringDeal.exe
+C:\Users\dbt\Desktop\StringDeal\bin\Debug\StringDeal.pdb
+C:\Users\dbt\Desktop\StringDeal\obj\Debug\StringDeal.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\obj\Debug\TestRemotingServer.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\bin\Debug\TestRemotingServer.exe.config
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\bin\Debug\TestRemotingServer.exe
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\bin\Debug\TestRemotingServer.pdb
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\bin\Debug\MessageMarshal.dll
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\bin\Debug\MessageMarshal.pdb
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\obj\Debug\TestRemotingServer.exe
+E:\codeStudy\8-C#\Demo4\RPC\TestRemotingServer\obj\Debug\TestRemotingServer.pdb

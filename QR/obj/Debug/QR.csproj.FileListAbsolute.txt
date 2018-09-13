@@ -1,0 +1,8 @@
+E:\codeStudy\8-C#\Demo4\QR\bin\Debug\QR.dll
+E:\codeStudy\8-C#\Demo4\QR\bin\Debug\QR.pdb
+E:\codeStudy\8-C#\Demo4\QR\obj\Debug\QR.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\QR\obj\Debug\QR.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo4\QR\obj\Debug\QR.dll
+E:\codeStudy\8-C#\Demo4\QR\obj\Debug\QR.pdb
+E:\codeStudy\8-C#\Demo4\QR\bin\Debug\ThoughtWorks.QRCode.dll
+E:\codeStudy\8-C#\Demo4\QR\obj\Debug\QR.QR.resources

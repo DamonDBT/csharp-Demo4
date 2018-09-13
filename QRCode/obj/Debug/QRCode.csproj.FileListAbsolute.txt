@@ -1,0 +1,14 @@
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\QRCode.exe.config
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\QRCode.exe
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\QRCode.pdb
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\QRCoder.dll
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\UnityEngine.dll
+E:\codeStudy\8-C#\Demo4\QRCode\obj\Debug\QRCode.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\QRCode\obj\Debug\QRCode.Form1.resources
+E:\codeStudy\8-C#\Demo4\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo4\QRCode\obj\Debug\QRCode.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo4\QRCode\obj\Debug\QRCode.exe
+E:\codeStudy\8-C#\Demo4\QRCode\obj\Debug\QRCode.pdb
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\QR.dll
+E:\codeStudy\8-C#\Demo4\QRCode\bin\Debug\QR.pdb

@@ -1,0 +1,8 @@
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\bin\Debug\RPCClient.exe.config
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\obj\Debug\RPCClient.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\bin\Debug\RPCClient.exe
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\bin\Debug\RPCClient.pdb
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\bin\Debug\RPCDll.dll
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\bin\Debug\RPCDll.pdb
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\obj\Debug\RPCClient.exe
+E:\codeStudy\8-C#\Demo4\RPC\RPCClient\obj\Debug\RPCClient.pdb

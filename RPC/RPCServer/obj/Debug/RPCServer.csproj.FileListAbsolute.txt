@@ -1,0 +1,8 @@
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\obj\Debug\RPCServer.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\bin\Debug\RPCServer.exe.config
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\bin\Debug\RPCServer.exe
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\bin\Debug\RPCServer.pdb
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\bin\Debug\RPCDll.dll
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\bin\Debug\RPCDll.pdb
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\obj\Debug\RPCServer.exe
+E:\codeStudy\8-C#\Demo4\RPC\RPCServer\obj\Debug\RPCServer.pdb

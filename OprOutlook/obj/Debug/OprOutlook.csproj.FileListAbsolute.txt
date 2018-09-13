@@ -1,0 +1,10 @@
+E:\codeStudy\8-C#\Demo4\OprOutlook\bin\Debug\OprOutlook.exe.config
+E:\codeStudy\8-C#\Demo4\OprOutlook\bin\Debug\OprOutlook.exe
+E:\codeStudy\8-C#\Demo4\OprOutlook\bin\Debug\OprOutlook.pdb
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.Form1.resources
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.Properties.Resources.resources
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.exe
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.pdb
+E:\codeStudy\8-C#\Demo4\OprOutlook\obj\Debug\OprOutlook.csproj.ResolveComReference.cache

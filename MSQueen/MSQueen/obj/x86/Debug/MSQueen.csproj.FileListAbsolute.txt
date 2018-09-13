@@ -1,0 +1,10 @@
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\MSQueen.exe
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\MSQueen.pdb
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\obj\x86\Debug\MSQueen.exe
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\obj\x86\Debug\MSQueen.pdb
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\obj\x86\Debug\MSQueen.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\MSQueen.DataClass.dll
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\MSQueen.DataClass.pdb
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\MSQueen.Common.dll
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\MSQueen.Common.pdb
+E:\codeStudy\8-C#\Demo4\MSQueen\MSQueen\bin\Debug\Newtonsoft.Json.dll
